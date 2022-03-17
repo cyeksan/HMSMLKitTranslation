@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HMSMLKitTranslation</string>
+    <string name="et_translation">Text to be translated</string>
+    <string name="btn_translation">TRANSLATE</string>
+    <string name="toast_empty_text_field">"Text to be translated cannot be empty!"</string>
+    /** xxx will be replaced by your API key in your agconnect.json file
+    that you have obtained in the first step of the Project Configuration section **/
+    <string name="api_key">xxx</string>
+</resources>
