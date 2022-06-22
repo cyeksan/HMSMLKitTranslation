@@ -1,6 +1,6 @@
-# HMSMLKitTranslation
+# TranslationAppWithJetpackCompose
 
-A simple translation app with Jetpack Compose and HMS ML Kit real-time translation service.
+A simple translation app with Jetpack Compose and HMS (Huawei Mobile Services) ML Kit real-time translation service.
 
 * MVVM Architecture
 * Dagger/Hilt
